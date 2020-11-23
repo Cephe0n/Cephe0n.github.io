@@ -117,6 +117,10 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
+	h2 {
+		text-align: center;
+		}
+
 	article header h1 {
 		font-size: _font(hdr-size-xlarge);
 		line-height: 1.75em;
@@ -1614,7 +1618,6 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		&.style4 {
 			background-color: transparent;
-			text-align: center;
 		}
 
 		&.style5 {
