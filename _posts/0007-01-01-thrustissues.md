@@ -17,7 +17,7 @@ Platforms: All PC OpenVR headsets<br>
 
 
 
-Thrust Issues is a VR anti-gravity racer somewhat in the vein of "Wipeout". The current build of the game includes a "hub" level and three others, which can be played in either practice or trial mode. In trial mode, the player must finish the race while staying ahead of an approaching "wall of death".
+testingThrust Issues is a VR anti-gravity racer somewhat in the vein of "Wipeout". The current build of the game includes a "hub" level and three others, which can be played in either practice or trial mode. In trial mode, the player must finish the race while staying ahead of an approaching "wall of death".
 
 The game was built from the ground up for VR and features a unique four-thruster system designed by yours truly. The player has two sticks in his VR cockpit, which control the ships engines. Pulling back on one stick and forward on the other reduces power to one engine, causing the ship to turn in that direction. In addition the player has access to lateral thrusters on either side of the ship, allowing drifting maneuvers and minute adjustments to the racing line.
 
