@@ -24,7 +24,5 @@ Once your axe is complete, use a surface-tracking AR view to make your axe appea
 
 Find it [here](https://www.memorandum.fi/news/kivikautiset-tyotavat-tutuiksi-kivikirves-pelilla/) (finnish only).
 
-<div class="image">
-<img src="/images/kk1.PNG" alt="" />
-<img src="/images/kk2.PNG" alt="" />
-  </div>
+<span><img src="/images/kk1.PNG" alt="" /></span>
+<span><img src="/images/kk2.PNG" alt="" /></span>
