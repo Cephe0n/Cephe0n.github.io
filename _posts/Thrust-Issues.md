@@ -11,9 +11,9 @@ tags:
 
 #### About the project
 
-Employer: [Axiom5 Games](https://axiom5.games)
+Employer: [Axiom5 Games](https://axiom5.games)  
 
-Others in team: Product owner and one 3D/2D artist
+Others in team: Product owner and one 3D/2D artist  
 
 Platforms: All PC OpenVR headsets
 
