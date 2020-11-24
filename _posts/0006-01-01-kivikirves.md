@@ -23,3 +23,5 @@ First hack off branches to make a handle, then sharpen a stone with a timing min
 Once your axe is complete, use a surface-tracking AR view to make your axe appear on your desk, floor etc. where you can rotate and move it freely, as well as take photos.
 
 Find it [here](https://www.memorandum.fi/news/kivikautiset-tyotavat-tutuiksi-kivikirves-pelilla/) (finnish only).
+
+<img src="/images/kk1.PNG" alt="Stone axe pic 1">
