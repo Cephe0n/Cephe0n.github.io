@@ -1,20 +1,26 @@
 ---
-priority: 0.6
-title: Project Z
-excerpt: An example of d and e
+title: Kivikirves
+excerpt: A stone axe building minigame with a surface-tracking AR component.
 categories: works
 background-image: works-sample.png
 tags:
-  - This
-  - That
-  - The other
+  - Unity
+  - C#
+  - VR
+  - Android
 ---
 
-#### Results
+#### About the project
 
-- 19% increase in M, measured by N
-- ...
+Employer: [Memorandum Unlimited Oy](https://www.memorandum.fi/)<br>
+Others in team: One 3D artist and one 2D artist<br>
+Platforms: Android<br>
 
-#### Summary
 
-Project Z involved ....
+
+An Android game where you build six different kinds of stone axes using two minigames with three difficulty settings.
+First hack off branches to make a handle, then sharpen a stone with a timing minigame.
+Once your axe is complete, use a surface-tracking AR view to make your axe appear on your desk, floor etc. where you can rotate and move it freely, as well as take photos.
+
+
+// pictures, video and link coming soon!
