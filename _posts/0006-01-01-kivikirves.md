@@ -22,9 +22,4 @@ An Android game where you build six different kinds of stone axes using two mini
 First hack off branches to make a handle, then sharpen a stone with a timing minigame.
 Once your axe is complete, use a surface-tracking AR view to make your axe appear on your desk, floor etc. where you can rotate and move it freely, as well as take photos.
 
-Find it [here](https://www.memorandum.fi/news/kivikautiset-tyotavat-tutuiksi-kivikirves-pelilla/) (finnish only).
-<<<<<<< HEAD
-
 <img src="/images/kk1.PNG" alt="Stone axe pic 1">
-=======
->>>>>>> parent of 3e181d7... Update 0006-01-01-kivikirves.md
