@@ -1,40 +1,60 @@
 ---
 key: 1
-title: Works
-permalink: /works/
+title: Portfolio
+permalink: /portfolio/
 excerpt: Take a look at some of my previous projects
 image: pic02.jpg
 background-image: pic02.jpg
 ---
-{%
-if site.social.linkedin-square %}
-<div class="table-wrapper">
-  <table class="alt"><tbody><tr><td style="text-align: center;">Visit my
-  <a target="_blank" href="{{ site.social.linkedin-square }}">LinkedIn profile</a></td>
-  </tr></tbody></table>
-</div>{%
-endif %}
-{%
-if site.categories.works %}
+    <section class="wrapper style5">
+    <div class="inner">
+
 <div class="table-wrapper">
   <table>
-    <tbody>{%
-      include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date'
-%}{%  for work in sorted_list %}
+    <tbody>
       <tr>
-        <td><b><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></b></td>
-        <td>{{ work.date | date: "%b %Y" }}</td>
-        <td>{{ work.excerpt | strip_html | truncatewords: 12 }}</td>
+        <td><b><a href="/arkadianriver.com/works/works-example2.html">Thrust Issues</a></b></td>
+        <td>WIP</td>
+        <td>A Wipeout inspired VR racer with a unique control system</td>
         <td>
-          {% include techlist.html %}
+          <ul class="techlist">
+<li><span class="tech">Unity</span></li>
+<li><span class="tech">C#</span></li>
+<li><span class="tech">VR</span></li>
+</ul>
+
         </td>
-      </tr>{%
-      endfor %}
+      </tr>
+      <tr>
+        <td><b><a href="/arkadianriver.com/works/works-example3.html">Project Z</a></b></td>
+        <td>Sep 3000</td>
+        <td>An example of d and e</td>
+        <td>
+          <ul class="techlist">
+<li><span class="tech">This</span></li>
+<li><span class="tech">That</span></li>
+<li><span class="tech">The other</span></li>
+</ul>
+
+        </td>
+      </tr>
+      <tr>
+        <td><b><a href="/arkadianriver.com/works/works-example1.html">Project X</a></b></td>
+        <td>Jan 3000</td>
+        <td>An example of a and b</td>
+        <td>
+          <ul class="techlist">
+<li><span class="tech">This</span></li>
+<li><span class="tech">That</span></li>
+<li><span class="tech">The other</span></li>
+</ul>
+
+        </td>
+      </tr>
     </tbody>
   </table>
-</div>{%
-  if site.works_in_progress %}
-  <div class="works_inprogress">In-progress, more to come.</div>{%
-  endif %}{%
-endif
-%}
+</div>
+  <div class="works_inprogress">In-progress, more to come.</div>
+
+    </div>
+  </section>
