@@ -12,8 +12,11 @@ tags:
 #### About the project
 
 Employer: [Axiom5 Games](https://axiom5.games)
+
 Others in team: Product owner and one 3D/2D artist
+
 Platforms: All PC OpenVR headsets
+
 
 
 Thrust Issues is a VR anti-gravity racer somewhat in the vein of "Wipeout". The current build of the game includes a "hub" level and three others, which can be played in either practice or trial mode. In trial mode, the player must finish the race while staying ahead of an approaching "wall of death".
