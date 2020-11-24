@@ -104,7 +104,6 @@ future: false
 custom_extensions: no
 
 # Build settings
-permalink: /:categories/:title.html
 markdown: kramdown
 #sass:
 #  style: compressed
