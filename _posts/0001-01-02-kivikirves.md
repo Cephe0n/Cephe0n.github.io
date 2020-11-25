@@ -1,4 +1,5 @@
 ---
+priority: 0.6
 title: Kivikirves
 excerpt: A stone axe building minigame with a surface-tracking AR component.
 categories: works

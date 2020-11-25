@@ -1,4 +1,5 @@
 ---
+priority: 0.5
 title: Tangomarkkinat
 excerpt: A timeline app for a song contest with a face-tracking AR component.
 categories: works

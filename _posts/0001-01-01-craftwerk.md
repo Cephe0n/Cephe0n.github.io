@@ -1,4 +1,5 @@
 ---
+priority: 0.3
 title: Craftwerk Corps
 excerpt: A 48h project for Global Game Jam 2020. Build zombies in a factory in VR.
 categories: works
