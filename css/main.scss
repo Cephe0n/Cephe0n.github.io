@@ -199,6 +199,10 @@ $baseurl: '{{ site.baseurl }}/images';
 	text-align: center;
 }
 
+#aboutText {
+	margin: 0 0 1em 15%;
+}
+
   article .inner {
   	/*
   	// If choosing serif font for headers
