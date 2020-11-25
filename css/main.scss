@@ -1887,7 +1887,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			position: relative;
 			z-index: 1;
 			text-transform: none;
-			text-shadow: 0 2px 5px #226
+			text-shadow: 0 2px 5px #226;
 
 			&:before, &:after {
 //			@include vendor('transition', 'width 0.85s ease');
