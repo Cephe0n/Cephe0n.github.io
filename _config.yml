@@ -29,7 +29,7 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Welcome
-  text: In need of an AR app? Or perhaps you have a great game idea, VR or otherwise, that desperately needs to be realized? Feel free to contact me about it, or keep scrolling to read more about me and my previous projects.
+  text: In need of an AR app? Or perhaps you have a great game idea, VR or otherwise, that only needs a passionate developer to be realized? Feel free to contact me about it, or keep scrolling to read more about me and my previous projects.
 # - displayed at the bottom
 closing-head: Looking for a developer?
 closing-para: Send me a message and tell me about your project!
