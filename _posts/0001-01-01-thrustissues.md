@@ -14,7 +14,7 @@ tags:
 
 Employer: [Axiom5 Games](https://axiom5.games)<br>
 Others in team: Product owner and one 3D/2D artist<br>
-Platforms: All PC OpenVR headsets<br>
+Platforms: All PC OpenVR-compatible headsets with motion controllers<br>
 
 
 
