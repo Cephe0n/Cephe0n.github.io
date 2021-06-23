@@ -1,5 +1,5 @@
 ---
-priority: 0.7
+priority: 0.9
 title: Thrust Issues
 excerpt: A VR anti-gravity racer with a unique control system
 categories: works
